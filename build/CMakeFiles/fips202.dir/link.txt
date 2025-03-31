@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libfips202.so -o libs/libfips202.so CMakeFiles/fips202.dir/src/fips202.c.o   -L/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/libs 
