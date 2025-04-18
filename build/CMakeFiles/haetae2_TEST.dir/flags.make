@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS
 
-C_INCLUDES = -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api
+C_INCLUDES = -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api
 
 C_FLAGS = -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11
 

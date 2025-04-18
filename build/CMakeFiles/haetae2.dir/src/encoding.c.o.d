@@ -1,9 +1,9 @@
 CMakeFiles/haetae2.dir/src/encoding.c.o: \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c \
  /usr/include/stdc-predef.h \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include/encoding.h \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include/params.h \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include/config.h \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include/encoding.h \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include/params.h \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include/config.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -20,8 +20,8 @@ CMakeFiles/haetae2.dir/src/encoding.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include/params.h \
- /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include/rans_byte.h \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include/params.h \
+ /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include/rans_byte.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \

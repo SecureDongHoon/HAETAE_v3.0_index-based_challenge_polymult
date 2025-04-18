@@ -1,552 +1,552 @@
 [
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -Dfips202_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -std=gnu11 -o CMakeFiles/fips202.dir/src/fips202.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fips202.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fips202.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -Dfips202_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -std=gnu11 -o CMakeFiles/fips202.dir/src/fips202.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fips202.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fips202.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DRNG_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -fPIC -std=gnu11 -o CMakeFiles/RNG.dir/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DRNG_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -fPIC -std=gnu11 -o CMakeFiles/RNG.dir/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae2_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae3_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_TEST_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -g -fsanitize=address,leak,undefined,pointer-compare,pointer-subtract -std=gnu11 -o CMakeFiles/haetae5_TEST.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae2.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae3.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/poly.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/poly.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/poly.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/ntt.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/ntt.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/ntt.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fft.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/fft.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fft.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/reduce.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/reduce.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/reduce.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyvec.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polyvec.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyvec.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polymat.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polymat.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polymat.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/polyfix.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/polyfix.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/polyfix.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/decompose.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/decompose.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/decompose.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sampler.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/sampler.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sampler.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/packing.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/packing.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/packing.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/fixpoint.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/fixpoint.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/fixpoint.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/encoding.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/encoding.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/encoding.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/symmetric-shake.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -fPIC -O3 -fomit-frame-pointer -march=native -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/haetae5.dir/src/symmetric-shake.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/symmetric-shake.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae2-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -Dhaetae2_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae2-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -std=gnu11 -o CMakeFiles/haetae2-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -std=gnu11 -o CMakeFiles/haetae2-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae3-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -Dhaetae3_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae3-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -std=gnu11 -o CMakeFiles/haetae3-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -std=gnu11 -o CMakeFiles/haetae3-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -Dhaetae5_kat_sign_EXPORTS -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -fPIC -std=gnu11 -o CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/kat",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/../include -std=gnu11 -o CMakeFiles/haetae5-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/PQCgenKAT_sign.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/kat",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/../include -std=gnu11 -o CMakeFiles/haetae5-kat-sign-main.dir/PQCgenKAT_sign.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/PQCgenKAT_sign.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=2 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae2-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=3 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae3-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/speed.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/cpucycles.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/cpucycles.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/cpucycles.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/benchmark/speed_print.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/speed_print.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/benchmark/speed_print.c"
 },
 {
-  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/benchmark",
-  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c",
-  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c"
+  "directory": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/benchmark",
+  "command": "/usr/bin/cc -DHAETAE_MODE=5 -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/include -I/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/api -std=gnu11 -o CMakeFiles/haetae5-benchmark.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c",
+  "file": "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c"
 }
 ]

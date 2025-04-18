@@ -229,6 +229,8 @@ reject:
     // reject if norm(z) >= B'
     reject1 = ((uint64_t)B1SQ * LN * LN - polyfixveclk_sqnorm2(&z1, &z2)) >> 63;
     reject1 &= 1;
+    if (reject1)
+        goto reject;
 
     polyfixvecl_double(&z1tmp, &z1);
     polyfixveck_double(&z2tmp, &z2);
@@ -242,7 +244,7 @@ reject:
     reject2 &= 1;
     reject2 &= (b & 0x2) >> 1;
 
-    if (reject1 | reject2) {
+    if (reject2) {
         goto reject;
     }
 

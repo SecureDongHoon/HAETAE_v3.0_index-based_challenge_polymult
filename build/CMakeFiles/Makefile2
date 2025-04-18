@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref
+CMAKE_SOURCE_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build
+CMAKE_BINARY_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -166,14 +166,14 @@ test/clean: test/CMakeFiles/haetae5-main.dir/clean
 CMakeFiles/fips202.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fips202.dir/build.make CMakeFiles/fips202.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fips202.dir/build.make CMakeFiles/fips202.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=2,3 "Built target fips202"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=2,3 "Built target fips202"
 .PHONY : CMakeFiles/fips202.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fips202.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/fips202.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/fips202.dir/rule
 
 # Convenience name for target.
@@ -192,14 +192,14 @@ CMakeFiles/fips202.dir/clean:
 CMakeFiles/RNG.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RNG.dir/build.make CMakeFiles/RNG.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RNG.dir/build.make CMakeFiles/RNG.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=1 "Built target RNG"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=1 "Built target RNG"
 .PHONY : CMakeFiles/RNG.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/RNG.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/RNG.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/RNG.dir/rule
 
 # Convenience name for target.
@@ -218,14 +218,14 @@ CMakeFiles/RNG.dir/clean:
 CMakeFiles/haetae2_TEST.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae2_TEST.dir/build.make CMakeFiles/haetae2_TEST.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae2_TEST.dir/build.make CMakeFiles/haetae2_TEST.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=24,25,26,27,28,29,30,31,32,33,34,35 "Built target haetae2_TEST"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=24,25,26,27,28,29,30,31,32,33,34,35 "Built target haetae2_TEST"
 .PHONY : CMakeFiles/haetae2_TEST.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae2_TEST.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 13
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 13
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae2_TEST.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae2_TEST.dir/rule
 
 # Convenience name for target.
@@ -244,14 +244,14 @@ CMakeFiles/haetae2_TEST.dir/clean:
 CMakeFiles/haetae3_TEST.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae3_TEST.dir/build.make CMakeFiles/haetae3_TEST.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae3_TEST.dir/build.make CMakeFiles/haetae3_TEST.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=57,58,59,60,61,62,63,64,65,66,67 "Built target haetae3_TEST"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=57,58,59,60,61,62,63,64,65,66,67 "Built target haetae3_TEST"
 .PHONY : CMakeFiles/haetae3_TEST.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae3_TEST.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae3_TEST.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae3_TEST.dir/rule
 
 # Convenience name for target.
@@ -270,14 +270,14 @@ CMakeFiles/haetae3_TEST.dir/clean:
 CMakeFiles/haetae5_TEST.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae5_TEST.dir/build.make CMakeFiles/haetae5_TEST.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae5_TEST.dir/build.make CMakeFiles/haetae5_TEST.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=89,90,91,92,93,94,95,96,97,98,99,100 "Built target haetae5_TEST"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=89,90,91,92,93,94,95,96,97,98,99,100 "Built target haetae5_TEST"
 .PHONY : CMakeFiles/haetae5_TEST.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae5_TEST.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 13
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 13
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae5_TEST.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae5_TEST.dir/rule
 
 # Convenience name for target.
@@ -296,14 +296,14 @@ CMakeFiles/haetae5_TEST.dir/clean:
 CMakeFiles/haetae2.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae2.dir/build.make CMakeFiles/haetae2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae2.dir/build.make CMakeFiles/haetae2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14 "Built target haetae2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14 "Built target haetae2"
 .PHONY : CMakeFiles/haetae2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae2.dir/rule
 
 # Convenience name for target.
@@ -322,14 +322,14 @@ CMakeFiles/haetae2.dir/clean:
 CMakeFiles/haetae3.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae3.dir/build.make CMakeFiles/haetae3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae3.dir/build.make CMakeFiles/haetae3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=36,37,38,39,40,41,42,43,44,45,46 "Built target haetae3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=36,37,38,39,40,41,42,43,44,45,46 "Built target haetae3"
 .PHONY : CMakeFiles/haetae3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae3.dir/rule
 
 # Convenience name for target.
@@ -348,14 +348,14 @@ CMakeFiles/haetae3.dir/clean:
 CMakeFiles/haetae5.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae5.dir/build.make CMakeFiles/haetae5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/haetae5.dir/build.make CMakeFiles/haetae5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=68,69,70,71,72,73,74,75,76,77,78,79 "Built target haetae5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=68,69,70,71,72,73,74,75,76,77,78,79 "Built target haetae5"
 .PHONY : CMakeFiles/haetae5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/haetae5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 13
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 13
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/haetae5.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : CMakeFiles/haetae5.dir/rule
 
 # Convenience name for target.
@@ -371,19 +371,19 @@ CMakeFiles/haetae5.dir/clean:
 # Target rules for target test/CMakeFiles/haetae2-main.dir
 
 # All Build rule for target.
+test/CMakeFiles/haetae2-main.dir/all: CMakeFiles/haetae2_TEST.dir/all
 test/CMakeFiles/haetae2-main.dir/all: CMakeFiles/fips202.dir/all
 test/CMakeFiles/haetae2-main.dir/all: CMakeFiles/RNG.dir/all
-test/CMakeFiles/haetae2-main.dir/all: CMakeFiles/haetae2_TEST.dir/all
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae2-main.dir/build.make test/CMakeFiles/haetae2-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae2-main.dir/build.make test/CMakeFiles/haetae2-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=22,23 "Built target haetae2-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=22,23 "Built target haetae2-main"
 .PHONY : test/CMakeFiles/haetae2-main.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/haetae2-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/haetae2-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : test/CMakeFiles/haetae2-main.dir/rule
 
 # Convenience name for target.
@@ -399,19 +399,19 @@ test/CMakeFiles/haetae2-main.dir/clean:
 # Target rules for target test/CMakeFiles/haetae3-main.dir
 
 # All Build rule for target.
+test/CMakeFiles/haetae3-main.dir/all: CMakeFiles/haetae3_TEST.dir/all
 test/CMakeFiles/haetae3-main.dir/all: CMakeFiles/fips202.dir/all
 test/CMakeFiles/haetae3-main.dir/all: CMakeFiles/RNG.dir/all
-test/CMakeFiles/haetae3-main.dir/all: CMakeFiles/haetae3_TEST.dir/all
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae3-main.dir/build.make test/CMakeFiles/haetae3-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae3-main.dir/build.make test/CMakeFiles/haetae3-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=54,55,56 "Built target haetae3-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=54,55,56 "Built target haetae3-main"
 .PHONY : test/CMakeFiles/haetae3-main.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/haetae3-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/haetae3-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : test/CMakeFiles/haetae3-main.dir/rule
 
 # Convenience name for target.
@@ -427,19 +427,19 @@ test/CMakeFiles/haetae3-main.dir/clean:
 # Target rules for target test/CMakeFiles/haetae5-main.dir
 
 # All Build rule for target.
+test/CMakeFiles/haetae5-main.dir/all: CMakeFiles/haetae5_TEST.dir/all
 test/CMakeFiles/haetae5-main.dir/all: CMakeFiles/fips202.dir/all
 test/CMakeFiles/haetae5-main.dir/all: CMakeFiles/RNG.dir/all
-test/CMakeFiles/haetae5-main.dir/all: CMakeFiles/haetae5_TEST.dir/all
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae5-main.dir/build.make test/CMakeFiles/haetae5-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/haetae5-main.dir/build.make test/CMakeFiles/haetae5-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=87,88 "Built target haetae5-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=87,88 "Built target haetae5-main"
 .PHONY : test/CMakeFiles/haetae5-main.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/haetae5-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/haetae5-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : test/CMakeFiles/haetae5-main.dir/rule
 
 # Convenience name for target.
@@ -458,14 +458,14 @@ test/CMakeFiles/haetae5-main.dir/clean:
 kat/CMakeFiles/haetae2-kat-sign.dir/all:
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae2-kat-sign.dir/build.make kat/CMakeFiles/haetae2-kat-sign.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae2-kat-sign.dir/build.make kat/CMakeFiles/haetae2-kat-sign.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=19,20 "Built target haetae2-kat-sign"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=19,20 "Built target haetae2-kat-sign"
 .PHONY : kat/CMakeFiles/haetae2-kat-sign.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae2-kat-sign.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae2-kat-sign.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae2-kat-sign.dir/rule
 
 # Convenience name for target.
@@ -481,20 +481,20 @@ kat/CMakeFiles/haetae2-kat-sign.dir/clean:
 # Target rules for target kat/CMakeFiles/haetae2-kat-sign-main.dir
 
 # All Build rule for target.
-kat/CMakeFiles/haetae2-kat-sign-main.dir/all: CMakeFiles/fips202.dir/all
-kat/CMakeFiles/haetae2-kat-sign-main.dir/all: CMakeFiles/RNG.dir/all
 kat/CMakeFiles/haetae2-kat-sign-main.dir/all: CMakeFiles/haetae2_TEST.dir/all
+kat/CMakeFiles/haetae2-kat-sign-main.dir/all: CMakeFiles/fips202.dir/all
 kat/CMakeFiles/haetae2-kat-sign-main.dir/all: kat/CMakeFiles/haetae2-kat-sign.dir/all
+kat/CMakeFiles/haetae2-kat-sign-main.dir/all: CMakeFiles/RNG.dir/all
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae2-kat-sign-main.dir/build.make kat/CMakeFiles/haetae2-kat-sign-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae2-kat-sign-main.dir/build.make kat/CMakeFiles/haetae2-kat-sign-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=21 "Built target haetae2-kat-sign-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=21 "Built target haetae2-kat-sign-main"
 .PHONY : kat/CMakeFiles/haetae2-kat-sign-main.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae2-kat-sign-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae2-kat-sign-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae2-kat-sign-main.dir/rule
 
 # Convenience name for target.
@@ -513,14 +513,14 @@ kat/CMakeFiles/haetae2-kat-sign-main.dir/clean:
 kat/CMakeFiles/haetae3-kat-sign.dir/all:
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae3-kat-sign.dir/build.make kat/CMakeFiles/haetae3-kat-sign.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae3-kat-sign.dir/build.make kat/CMakeFiles/haetae3-kat-sign.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=51,52 "Built target haetae3-kat-sign"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=51,52 "Built target haetae3-kat-sign"
 .PHONY : kat/CMakeFiles/haetae3-kat-sign.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae3-kat-sign.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae3-kat-sign.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae3-kat-sign.dir/rule
 
 # Convenience name for target.
@@ -536,20 +536,20 @@ kat/CMakeFiles/haetae3-kat-sign.dir/clean:
 # Target rules for target kat/CMakeFiles/haetae3-kat-sign-main.dir
 
 # All Build rule for target.
+kat/CMakeFiles/haetae3-kat-sign-main.dir/all: CMakeFiles/haetae3_TEST.dir/all
 kat/CMakeFiles/haetae3-kat-sign-main.dir/all: CMakeFiles/fips202.dir/all
 kat/CMakeFiles/haetae3-kat-sign-main.dir/all: CMakeFiles/RNG.dir/all
-kat/CMakeFiles/haetae3-kat-sign-main.dir/all: CMakeFiles/haetae3_TEST.dir/all
 kat/CMakeFiles/haetae3-kat-sign-main.dir/all: kat/CMakeFiles/haetae3-kat-sign.dir/all
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae3-kat-sign-main.dir/build.make kat/CMakeFiles/haetae3-kat-sign-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae3-kat-sign-main.dir/build.make kat/CMakeFiles/haetae3-kat-sign-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=53 "Built target haetae3-kat-sign-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=53 "Built target haetae3-kat-sign-main"
 .PHONY : kat/CMakeFiles/haetae3-kat-sign-main.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae3-kat-sign-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae3-kat-sign-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae3-kat-sign-main.dir/rule
 
 # Convenience name for target.
@@ -568,14 +568,14 @@ kat/CMakeFiles/haetae3-kat-sign-main.dir/clean:
 kat/CMakeFiles/haetae5-kat-sign.dir/all:
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae5-kat-sign.dir/build.make kat/CMakeFiles/haetae5-kat-sign.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae5-kat-sign.dir/build.make kat/CMakeFiles/haetae5-kat-sign.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=84 "Built target haetae5-kat-sign"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=84 "Built target haetae5-kat-sign"
 .PHONY : kat/CMakeFiles/haetae5-kat-sign.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae5-kat-sign.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae5-kat-sign.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae5-kat-sign.dir/rule
 
 # Convenience name for target.
@@ -591,20 +591,20 @@ kat/CMakeFiles/haetae5-kat-sign.dir/clean:
 # Target rules for target kat/CMakeFiles/haetae5-kat-sign-main.dir
 
 # All Build rule for target.
+kat/CMakeFiles/haetae5-kat-sign-main.dir/all: CMakeFiles/haetae5_TEST.dir/all
 kat/CMakeFiles/haetae5-kat-sign-main.dir/all: CMakeFiles/fips202.dir/all
 kat/CMakeFiles/haetae5-kat-sign-main.dir/all: CMakeFiles/RNG.dir/all
-kat/CMakeFiles/haetae5-kat-sign-main.dir/all: CMakeFiles/haetae5_TEST.dir/all
 kat/CMakeFiles/haetae5-kat-sign-main.dir/all: kat/CMakeFiles/haetae5-kat-sign.dir/all
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae5-kat-sign-main.dir/build.make kat/CMakeFiles/haetae5-kat-sign-main.dir/depend
 	$(MAKE) $(MAKESILENT) -f kat/CMakeFiles/haetae5-kat-sign-main.dir/build.make kat/CMakeFiles/haetae5-kat-sign-main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=85,86 "Built target haetae5-kat-sign-main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=85,86 "Built target haetae5-kat-sign-main"
 .PHONY : kat/CMakeFiles/haetae5-kat-sign-main.dir/all
 
 # Build rule for subdir invocation for target.
 kat/CMakeFiles/haetae5-kat-sign-main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kat/CMakeFiles/haetae5-kat-sign-main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : kat/CMakeFiles/haetae5-kat-sign-main.dir/rule
 
 # Convenience name for target.
@@ -620,19 +620,19 @@ kat/CMakeFiles/haetae5-kat-sign-main.dir/clean:
 # Target rules for target benchmark/CMakeFiles/haetae2-benchmark.dir
 
 # All Build rule for target.
+benchmark/CMakeFiles/haetae2-benchmark.dir/all: CMakeFiles/haetae2.dir/all
 benchmark/CMakeFiles/haetae2-benchmark.dir/all: CMakeFiles/fips202.dir/all
 benchmark/CMakeFiles/haetae2-benchmark.dir/all: CMakeFiles/RNG.dir/all
-benchmark/CMakeFiles/haetae2-benchmark.dir/all: CMakeFiles/haetae2.dir/all
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae2-benchmark.dir/build.make benchmark/CMakeFiles/haetae2-benchmark.dir/depend
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae2-benchmark.dir/build.make benchmark/CMakeFiles/haetae2-benchmark.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=15,16,17,18 "Built target haetae2-benchmark"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=15,16,17,18 "Built target haetae2-benchmark"
 .PHONY : benchmark/CMakeFiles/haetae2-benchmark.dir/all
 
 # Build rule for subdir invocation for target.
 benchmark/CMakeFiles/haetae2-benchmark.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 benchmark/CMakeFiles/haetae2-benchmark.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : benchmark/CMakeFiles/haetae2-benchmark.dir/rule
 
 # Convenience name for target.
@@ -648,19 +648,19 @@ benchmark/CMakeFiles/haetae2-benchmark.dir/clean:
 # Target rules for target benchmark/CMakeFiles/haetae3-benchmark.dir
 
 # All Build rule for target.
+benchmark/CMakeFiles/haetae3-benchmark.dir/all: CMakeFiles/haetae3.dir/all
 benchmark/CMakeFiles/haetae3-benchmark.dir/all: CMakeFiles/fips202.dir/all
 benchmark/CMakeFiles/haetae3-benchmark.dir/all: CMakeFiles/RNG.dir/all
-benchmark/CMakeFiles/haetae3-benchmark.dir/all: CMakeFiles/haetae3.dir/all
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae3-benchmark.dir/build.make benchmark/CMakeFiles/haetae3-benchmark.dir/depend
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae3-benchmark.dir/build.make benchmark/CMakeFiles/haetae3-benchmark.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=47,48,49,50 "Built target haetae3-benchmark"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=47,48,49,50 "Built target haetae3-benchmark"
 .PHONY : benchmark/CMakeFiles/haetae3-benchmark.dir/all
 
 # Build rule for subdir invocation for target.
 benchmark/CMakeFiles/haetae3-benchmark.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 benchmark/CMakeFiles/haetae3-benchmark.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : benchmark/CMakeFiles/haetae3-benchmark.dir/rule
 
 # Convenience name for target.
@@ -676,19 +676,19 @@ benchmark/CMakeFiles/haetae3-benchmark.dir/clean:
 # Target rules for target benchmark/CMakeFiles/haetae5-benchmark.dir
 
 # All Build rule for target.
+benchmark/CMakeFiles/haetae5-benchmark.dir/all: CMakeFiles/haetae5.dir/all
 benchmark/CMakeFiles/haetae5-benchmark.dir/all: CMakeFiles/fips202.dir/all
 benchmark/CMakeFiles/haetae5-benchmark.dir/all: CMakeFiles/RNG.dir/all
-benchmark/CMakeFiles/haetae5-benchmark.dir/all: CMakeFiles/haetae5.dir/all
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae5-benchmark.dir/build.make benchmark/CMakeFiles/haetae5-benchmark.dir/depend
 	$(MAKE) $(MAKESILENT) -f benchmark/CMakeFiles/haetae5-benchmark.dir/build.make benchmark/CMakeFiles/haetae5-benchmark.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=80,81,82,83 "Built target haetae5-benchmark"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=80,81,82,83 "Built target haetae5-benchmark"
 .PHONY : benchmark/CMakeFiles/haetae5-benchmark.dir/all
 
 # Build rule for subdir invocation for target.
 benchmark/CMakeFiles/haetae5-benchmark.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 19
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 19
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 benchmark/CMakeFiles/haetae5-benchmark.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles 0
 .PHONY : benchmark/CMakeFiles/haetae5-benchmark.dir/rule
 
 # Convenience name for target.

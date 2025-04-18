@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/kat/kat_sign.c" "kat/CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o" "gcc" "kat/CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o.d"
+  "/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/kat/kat_sign.c" "kat/CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o" "gcc" "kat/CMakeFiles/haetae5-kat-sign.dir/kat_sign.c.o.d"
   )
 
 # Targets to which this target links.

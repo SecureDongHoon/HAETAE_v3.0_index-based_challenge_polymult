@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref
+CMAKE_SOURCE_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build
+CMAKE_BINARY_DIR = /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build
 
 # Include any dependencies generated for this target.
 include test/CMakeFiles/haetae3-main.dir/depend.make
@@ -72,30 +72,30 @@ include test/CMakeFiles/haetae3-main.dir/flags.make
 test/CMakeFiles/haetae3-main.dir/main.c.o: test/CMakeFiles/haetae3-main.dir/flags.make
 test/CMakeFiles/haetae3-main.dir/main.c.o: ../test/main.c
 test/CMakeFiles/haetae3-main.dir/main.c.o: test/CMakeFiles/haetae3-main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object test/CMakeFiles/haetae3-main.dir/main.c.o"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT test/CMakeFiles/haetae3-main.dir/main.c.o -MF CMakeFiles/haetae3-main.dir/main.c.o.d -o CMakeFiles/haetae3-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object test/CMakeFiles/haetae3-main.dir/main.c.o"
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT test/CMakeFiles/haetae3-main.dir/main.c.o -MF CMakeFiles/haetae3-main.dir/main.c.o.d -o CMakeFiles/haetae3-main.dir/main.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c
 
 test/CMakeFiles/haetae3-main.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/haetae3-main.dir/main.c.i"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c > CMakeFiles/haetae3-main.dir/main.c.i
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c > CMakeFiles/haetae3-main.dir/main.c.i
 
 test/CMakeFiles/haetae3-main.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/haetae3-main.dir/main.c.s"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test/main.c -o CMakeFiles/haetae3-main.dir/main.c.s
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test/main.c -o CMakeFiles/haetae3-main.dir/main.c.s
 
 test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o: test/CMakeFiles/haetae3-main.dir/flags.make
 test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o: ../src/randombytes.c
 test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o: test/CMakeFiles/haetae3-main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -MF CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o.d -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o"
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -MF CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o.d -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.o -c /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c
 
 test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/haetae3-main.dir/__/src/randombytes.c.i"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c > CMakeFiles/haetae3-main.dir/__/src/randombytes.c.i
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c > CMakeFiles/haetae3-main.dir/__/src/randombytes.c.i
 
 test/CMakeFiles/haetae3-main.dir/__/src/randombytes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/haetae3-main.dir/__/src/randombytes.c.s"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/src/randombytes.c -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.s
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/src/randombytes.c -o CMakeFiles/haetae3-main.dir/__/src/randombytes.c.s
 
 # Object files for target haetae3-main
 haetae3__main_OBJECTS = \
@@ -113,18 +113,18 @@ bin/haetae3-main: libs/libfips202.so
 bin/haetae3-main: libs/libRNG.so
 bin/haetae3-main: /usr/lib/x86_64-linux-gnu/libcrypto.so
 bin/haetae3-main: test/CMakeFiles/haetae3-main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable ../bin/haetae3-main"
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/haetae3-main.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable ../bin/haetae3-main"
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/haetae3-main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 test/CMakeFiles/haetae3-main.dir/build: bin/haetae3-main
 .PHONY : test/CMakeFiles/haetae3-main.dir/build
 
 test/CMakeFiles/haetae3-main.dir/clean:
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test && $(CMAKE_COMMAND) -P CMakeFiles/haetae3-main.dir/cmake_clean.cmake
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test && $(CMAKE_COMMAND) -P CMakeFiles/haetae3-main.dir/cmake_clean.cmake
 .PHONY : test/CMakeFiles/haetae3-main.dir/clean
 
 test/CMakeFiles/haetae3-main.dir/depend:
-	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/test /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/implem/ref/build/test/CMakeFiles/haetae3-main.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/test /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test /home/secure_donghoon/personal_growth/cryptography/HAETAE_v3.0_index-based_challenge_polymult/build/test/CMakeFiles/haetae3-main.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : test/CMakeFiles/haetae3-main.dir/depend
 
